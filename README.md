@@ -2,7 +2,7 @@
   <img src="https://drive.google.com/uc?export=view&id=1kzEmy7AgqwcQ7F1UdC5MPQmDliuR7DKp" alt="Profile Image" width="300" />
 </p>
 
-  - 👋 Hi, I’m @Rishudhir
+  - 👋 Hi, I’m @CuriousAlien
   <br>👀 I’m interested in turning wild ideas into viral stories, blending humor, tech, and a bit of crazy charm to keep things exciting.
   <br>🌱 I’m currently learning how to turn everyday chaos into epic YouTube Shorts and mastering the art of rhyming punchlines that stick like a catchy tune.
   <br>💞️ I’m looking to collaborate on bold, unconventional content – whether it’s rap, humor, or tech-driven innovation. If it’s quirky and has the potential to blow minds, I’m in!
