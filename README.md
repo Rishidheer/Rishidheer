@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1JvHUdj08evDDFfERGy4GmzVUsGU_ddJr" alt="Profile Image" width="300" />
+  <img src="https://drive.google.com/uc?export=view&id=143ma6BAlzPG6uEq6--4X3hJ2dklO7xDS" alt="Profile Image" width="300" />
 </p>
 
-<p align="center">
   - 👋 Hi, I’m @Rishudhir
   <br>👀 I’m interested in turning wild ideas into viral stories, blending humor, tech, and a bit of crazy charm to keep things exciting.
   <br>🌱 I’m currently learning how to turn everyday chaos into epic YouTube Shorts and mastering the art of rhyming punchlines that stick like a catchy tune.
@@ -12,6 +11,5 @@
   <br>⚡ Fun fact: I can turn a random thought into a punchline faster than you can say ‘viral’!
 </p>
 
-<p align="center">
   <a href="https://rishidheer.github.io/alien.io/">My WEB</a>
 </p>
