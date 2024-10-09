@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=143ma6BAlzPG6uEq6--4X3hJ2dklO7xDS" alt="Profile Image" width="300" />
+  <img src="https://drive.google.com/uc?export=view&id=1kzEmy7AgqwcQ7F1UdC5MPQmDliuR7DKp" alt="Profile Image" width="300" />
 </p>
 
   - 👋 Hi, I’m @Rishudhir
