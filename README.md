@@ -1,4 +1,3 @@
-(https://drive.google.com/file/d/1JvHUdj08evDDFfERGy4GmzVUsGU_ddJr/view?usp=sharing)]
 
 - 👋 Hi, I’m @Rishudhir
 
