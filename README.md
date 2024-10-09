@@ -1,5 +1,4 @@
-![Profile Image](https://![profilepic](https://github.com/user-attachments/assets/71c40067-9bd0-4ea9-8444-a7a894bc5d1d)
-)
+![Profile Image]([https://your-image-link-here](https://drive.google.com/file/d/1JvHUdj08evDDFfERGy4GmzVUsGU_ddJr/view?usp=sharing))
 
 - 👋 Hi, I’m @Rishudhir
 
