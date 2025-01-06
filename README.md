@@ -7,7 +7,7 @@
   <br>🌱 I’m currently learning how to turn everyday chaos into epic YouTube Shorts and mastering the art of rhyming punchlines that stick like a catchy tune.
   <br>💞️ I’m looking to collaborate on bold, unconventional content – whether it’s rap, humor, or tech-driven innovation. If it’s quirky and has the potential to blow minds, I’m in!
   <br>📫 How to reach me: Just shout loud enough into the digital void, I’m always listening... but a DM works too!
-  <br>😄 Pronouns: He/Him (but you can call me "Curios Alien")
+  <br>😄 Pronouns: He/Him (but you can call me "Curious Alien")
   <br>⚡ Fun fact: I can turn a random thought into a punchline faster than you can say ‘viral’!
 </p>
 
