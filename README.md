@@ -11,5 +11,5 @@
   <br>⚡ Fun fact: I can turn a random thought into a punchline faster than you can say ‘viral’!
 </p>
 
-  <a href="https://rishidheer.github.io/alien.io/">My WEB</a>
+  <a href="https://rishidheer.github.io/alien.io/">MY WEB</a>
 </p>
